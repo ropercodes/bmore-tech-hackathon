@@ -1,0 +1,43 @@
+# B'more Tech Hackathon
+
+> A free evening hackathon in Baltimore on Thursday, December 10, 2026, 6 to 8 p.m. Eastern, at Digital Harbor Tech Lab, 1045 Light St, Baltimore, MD 21230. Bring a real problem from your business, build a fix with AI, and demo it to the room. Sponsored by Knucklepuck.
+
+## Event
+
+- Date and time: Thursday, December 10, 2026, 6 to 8 p.m. Eastern. Doors open at 6 p.m.
+- Venue: Digital Harbor Tech Lab, 1045 Light St, Baltimore, MD 21230
+- Cost: Free to attend. Space is limited and every RSVP is reviewed, so register early.
+- Registration: [Register on Luma](https://luma.com/yfd1ajxu)
+- Who should come: solo founders, teams, early-stage companies, and late-stage companies. Anyone is welcome, and you don't need to write code. If you can describe what you need, AI can build it with you.
+
+## Schedule
+
+- 6 p.m.: Doors open and a quick kickoff
+- 6:15 p.m.: Build, solo or with your team
+- 7:30 p.m.: Demos, then prizes for the best builds: 1st, 2nd, and 3rd place
+
+## What to bring
+
+- A laptop
+- A charger
+- An AI tool you can log into. Set up your accounts before you arrive, because 75 minutes goes fast.
+
+## FAQ
+
+- Do I need to know how to code? No. If you can describe what you need, AI can build it with you. Anyone is welcome.
+- Who should come? Solo founders, teams, and early-stage and late-stage companies. If something in your business eats a few hours every week, bring it.
+- How much does it cost? Nothing. The hackathon is free to attend. Space is limited and every RSVP is reviewed, so register early on Luma.
+- Can I come alone, or should I bring a team? Either works. Build solo or bring your team.
+- What will I build? A fix for a real problem from your business. Building starts at 6:15 p.m. and demos start at 7:30 p.m.
+- Are there prizes? Yes. After the demos, the best builds take 1st, 2nd, and 3rd place.
+
+## Links
+
+- [Event page](https://www.baltimorehackathon.com/): full details, schedule, and FAQ
+- [Register on Luma](https://luma.com/yfd1ajxu): RSVP for the event
+- [Event flyer](https://www.baltimorehackathon.com/exports/BMore-Tech-Hackathon-Flyer.png): printable flyer (PNG)
+- [Venue on Google Maps](https://maps.google.com/?q=1045+Light+St+Baltimore+MD+21230)
+
+## Sponsor
+
+- [Knucklepuck](https://knucklepuckmedia.com): a DC-based digital marketing agency specializing in organic search, paid media, and content strategy. Knucklepuck sponsors B'more Tech so Baltimore's founders and builders have a place to make things and meet each other.
